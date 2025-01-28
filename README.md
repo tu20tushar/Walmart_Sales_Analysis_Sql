@@ -30,7 +30,6 @@ Here’s the information in a table format:
 # Business Questions To Answer
 # Generic Question
 How many unique cities does the data have?
-
 In which city is each branch?
 
 # Product
